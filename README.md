@@ -1,6 +1,6 @@
 # TypingGame
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+Small Angular app using conditional, directives, data binding and class assigment in a quick typing game. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
 ## Development server
 
